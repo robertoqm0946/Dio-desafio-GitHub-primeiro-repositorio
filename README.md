@@ -1,5 +1,5 @@
 # Dio-desafio-GitHub-primeiro-repositorio
-REpositorio Criado de Projeto sobre Git/Github
+Repositorio Criado de Projeto sobre Git/Github
 
 links uteis
 
